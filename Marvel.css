@@ -165,7 +165,7 @@ body{
 }
 
 .mycard08{
-    height: 80px;
+    height: 280px;
     width: 203px;
     background-color: white;
     position: absolute;
@@ -205,5 +205,16 @@ body{
     margin-left: 1570px;
     border: 2px ridge black;
 }
+.high:hover{
+    color: red;
+    text-shadow: 2px ridge blue;
+    font-size: 50px;
+}
+
+.txt{
+    color: white;
+}
+
+
 
 
